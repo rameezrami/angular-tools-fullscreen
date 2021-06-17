@@ -1,0 +1,26 @@
+{
+  "name": "@angular-tools/fullscreen",
+  "description": "Angular Fullscreen Package",
+  "version": "1.0.3",
+  "peerDependencies": {
+    "@angular/common": "^12.0.5",
+    "@angular/core": "^12.0.5",
+    "screenfull": "^5.1.0"
+  },
+  "dependencies": {
+    "tslib": "^2.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rameezrami/angular-tools-fullscreen.git"
+  },
+  "keywords": [
+    "fullscreen"
+  ],
+  "author": "rameez rami",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rameezrami/angular-tools-fullscreen/issues"
+  },
+  "homepage": "https://github.com/rameezrami/angular-tools-fullscreen#readme"
+}
